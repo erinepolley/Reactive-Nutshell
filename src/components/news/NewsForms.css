@@ -1,0 +1,26 @@
+fieldset {
+    display: flex;
+    justify-content: center;
+}
+.form {
+    display: flex;
+    width: 15%;
+    flex-wrap: wrap;
+    margin: auto;
+}
+.formButton {
+    align-content: right;
+}
+.form-heading {
+    width: 11em;
+    margin: 10px auto;   
+}
+textarea {
+    width: 250px;
+}
+input {
+    margin: 8px 0;
+}
+button {
+    margin-top: 5px;
+}

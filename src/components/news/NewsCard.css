@@ -1,0 +1,20 @@
+ul {
+    list-style: none
+}
+.newscard {
+    width: 45%;
+    margin: 25px auto;
+    padding: 10px 10px 10px 2px;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.01);
+}
+.title {
+    font-weight: 800;
+}
+.button {
+    margin: 8px;
+    padding: 5px;
+}
+.news-card-buttons {
+    margin-left: 40px;
+}
